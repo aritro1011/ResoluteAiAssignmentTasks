@@ -35,7 +35,7 @@ This project enables users to **ask questions across multiple documents** and re
 ```bash
 pip install streamlit chromadb sentence-transformers google-generativeai
 ```
-#### Note: for this code to work, You need to add your own personal Gemini Api Key in a .env file in the format Gemini_Api_Key="api key"
+#### Note: for this code to work, You need to add your own personal Gemini Api Key in a .env file in the format GEMINI_API_KEY="your api key"
 #### 2️⃣ Run the Streamlit app
 ```bash
 streamlit run app.py
