@@ -41,7 +41,7 @@ GEMINI_API_KEY="your api key"
 ```
 #### 2️⃣ Run the Streamlit app
 ```bash
-streamlit run app.py
+streamlit run App.py
 ```
 # Task 3: LangChain-Based AI Agent for Code Generation & Execution
 ###**Demo Link:**
