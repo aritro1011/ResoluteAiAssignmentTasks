@@ -38,3 +38,34 @@ pip install streamlit chromadb sentence-transformers google-generativeai
 ```bash
 streamlit run app.py
 ```
+# Task 3: LangChain-Based AI Agent for Code Generation & Execution
+
+## Overview
+This LangChain-powered agent can generate Python code from natural language prompts and execute it securely.
+
+## Tech Stack
+- **LLM**: Google Gemini  
+- **LangChain**: For agent orchestration  
+- **Python Execution Tool**: Custom secure execution environment  
+
+## Features
+✅ Generates Python code from text prompts  
+✅ Securely executes Python code in an isolated environment  
+✅ Returns output/errors from execution  
+
+## Setup Instructions
+
+### 1️⃣ Install dependencies  
+```bash
+pip install langchain langchain-google-genai google-generativeai
+```
+
+### 2️⃣ Run the agent  
+```python
+pyton app.py
+```
+
+## License
+This project is licensed under the MIT License.
+
+
