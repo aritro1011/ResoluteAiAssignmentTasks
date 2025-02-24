@@ -33,3 +33,8 @@ This project enables users to **ask questions across multiple documents** and re
 #### 1️⃣ Install dependencies  
 ```bash
 pip install streamlit chromadb sentence-transformers google-generativeai
+```
+#### 2️⃣ Run the Streamlit app
+```bash
+streamlit run app.py
+```
